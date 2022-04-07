@@ -1,0 +1,4 @@
+[19-Feb-2022 12:59:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/elrichmanda/public_html/wp-content/themes/twentytwentyone/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/elrichmanda/public_html/wp-content/themes/twentytwentyone/404.php on line 12
